@@ -14,3 +14,5 @@ set noswapfile
 set noundofile
 
 set laststatus=2
+
+set updatetime=100
